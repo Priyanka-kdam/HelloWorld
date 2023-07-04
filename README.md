@@ -1,2 +1,2 @@
 # HelloWorld
-Java Print Hello World
+Java Program to Display "Hello World"
